@@ -1,0 +1,10 @@
+type,indicator,description
+domain,sweepquest[.]shop,Suspicious landing page domain
+hostname,gogotracker[.]b-cdn[.]net,CDN hostname referenced by landing page
+nameserver,hayes.ns.cloudflare.com,Cloudflare nameserver
+nameserver,nova.ns.cloudflare.com,Cloudflare nameserver
+endpoint,/ctrack.php,Tracking endpoint
+endpoint,/click.php,Potential offer/click endpoint
+endpoint,/lib/ajax/campdata.php,Campaign data endpoint
+endpoint,/lib/ajax/lp_timing.php,Page timing endpoint
+endpoint,/lib/ajax/lp_engage.php,Engagement tracking endpoint
