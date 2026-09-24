@@ -1,5 +1,7 @@
-[README.md — Phishing Infrastructure Investigation.md](https://github.com/user-attachments/files/32621077/README.md.Phishing.Infrastructure.Investigation.md)
+
 # 🔎 Phishing Infrastructure Investigation
+<img width="1561" height="984" alt="CAPTURA WEB1" src="https://github.com/user-attachments/assets/c5907d64-e6bd-478a-b261-c7f46b36e689" />
+
 
 ## Overview
 
